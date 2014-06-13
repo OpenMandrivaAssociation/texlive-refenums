@@ -6,7 +6,7 @@
 # catalog-version 1.1.1
 Name:		texlive-refenums
 Version:	1.1.1
-Release:	1
+Release:	2
 Summary:	Define reference labels items with names of their own
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/refenums
