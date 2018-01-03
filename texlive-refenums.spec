@@ -1,12 +1,6 @@
-# revision 32562
-# category Package
-# catalog-ctan /macros/latex/contrib/refenums
-# catalog-date 2014-01-03 20:50:16 +0100
-# catalog-license lppl1.3
-# catalog-version 1.1.1
 Name:		texlive-refenums
-Version:	1.1.1
-Release:	5
+Version:	1.1.2
+Release:	1
 Summary:	Define reference labels items with names of their own
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/refenums
@@ -37,12 +31,8 @@ also rendered as hyperlink to the definition.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/refenums/refenums.sty
-%doc %{_texmfdistdir}/doc/latex/refenums/LICENSE
-%doc %{_texmfdistdir}/doc/latex/refenums/README.md
-%doc %{_texmfdistdir}/doc/latex/refenums/demo.pdf
-%doc %{_texmfdistdir}/doc/latex/refenums/demo.tex
-%doc %{_texmfdistdir}/doc/latex/refenums/test/demo-sec-param.tex
+%{_texmfdistdir}/tex/latex/refenums
+%doc %{_texmfdistdir}/doc/latex/refenums
 
 #-----------------------------------------------------------------------
 %prep
