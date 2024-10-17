@@ -3,7 +3,7 @@ Version:	44131
 Release:	2
 Summary:	Define reference labels items with names of their own
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/refenums
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/refenums
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/refenums.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/refenums.doc.r%{version}.tar.xz
